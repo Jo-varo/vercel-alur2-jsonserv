@@ -2,7 +2,7 @@
   "products": [
     {
       "id": "f8d80dd7-8208-4625-8249-0b7bb2248035",
-      "name": "Star Wars doll",
+      "name": "Star Wars 1",
       "price": "29.99",
       "image": "assets/images/SW1.jpg",
       "description": "endi, sed nemo doloremque quidem magni minima eveniet dolorem sapiente corrupti, error quo voluptate",
@@ -10,7 +10,7 @@
     },
     {
       "id": "996816df-19ef-4e0f-b2df-3682edcfd465",
-      "name": "Star Wars doll",
+      "name": "Star Wars 2",
       "price": "39.99",
       "image": "assets/images/SW2.jpg",
       "description": "liquam sed et distinctio illo veritatis sint laborum quam, quae, porro quia numquam doloremque bland",
@@ -26,7 +26,7 @@
     },
     {
       "id": "781eb843-0388-42ab-9a2c-d41b8f3a5a66",
-      "name": "Star Wars 33",
+      "name": "Star Wars 4",
       "price": "79.99",
       "image": "assets/images/SW4.jpg",
       "description": "l porro libero provident dignissimos corporis laboriosam accusantium fugiat alias earum veritatis cu",
@@ -96,6 +96,7 @@
       "description": " sed nemo doloremque quidem magni minima eveniet dolorem sapiente corrupti, error quo voluptate dolore. Iusto dicta quas officia magni ab, impedit nihil fugiat voluptatem? Mollitia sint nostrum harum ",
       "category": "consoles"
     },
+
     {
       "id": "cfaf7e17-7303-4e32-b312-fc2b9f747cc8",
       "name": "Diverse 1",
