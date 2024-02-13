@@ -1,7 +1,7 @@
 {
   "name": "vrcl-jsnserv-alur2",
   "version": "1.0.0",
-  "description": "",
+  "description": "A ready RESTful API created with the JSON-Server package to deploy on vercel",
   "type": "module",
   "main": "",
   "scripts": {},
@@ -11,7 +11,8 @@
     "api",
     "vercel",
     "json",
-    "server"
+    "server",
+    "json-server"
   ],
   "homepage": "https://github.com/ifkas/restful-api-vercel#readme",
   "author": "Jo-varo",
